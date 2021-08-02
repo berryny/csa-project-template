@@ -12,6 +12,9 @@ a:hover {
   text-decoration: underline;
   color: orange;
 }
+h2 {
+  color: green;
+}
 
 header {
   background-color: #000; /* color black */
@@ -42,4 +45,7 @@ header .menu li a:hover {
 }
 .product-cards .card {
   width: 30%;
+}
+.product-cards .card h2 {
+  color: purple;
 }
