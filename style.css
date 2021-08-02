@@ -4,8 +4,17 @@ body {
   color: #444; /* shade of black */
   font-family: Verdana;
 }
+a {
+  color: #444;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+  color: yellow;
+}
 header {
   background-color: #000 /* color black */
+  padding: 3em;
 }
 header .menu {
   margin: 0;
@@ -13,4 +22,11 @@ header .menu {
 }
 header .menu li {
   display: inline;
+  margin-right: 2em;
+}
+header .menu li:last-child {
+  margin-right: 0;
+}
+header .menu li a {
+  color: white;
 }
