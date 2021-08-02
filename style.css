@@ -10,11 +10,11 @@ a {
 }
 a:hover {
   text-decoration: underline;
-  color: yellow;
+  color: orange;
 }
 header {
-  background-color: #000 /* color black */
-  padding: 3em;
+  background-color: #000; /* color black */
+  padding: 3%;
 }
 header .menu {
   margin: 0;
@@ -29,4 +29,7 @@ header .menu li:last-child {
 }
 header .menu li a {
   color: white;
+}
+header .menu li a:hover {
+  color: yellow;
 }
