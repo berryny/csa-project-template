@@ -38,6 +38,12 @@ header .menu li a:hover {
   color: yellow;
 }
 
+header {
+  display: flex;
+  justify-content: space-between;
+  flex-flow: wrap;  
+}
+
 .product-cards {
   display: flex;
   justify-content: space-between;
@@ -60,4 +66,13 @@ header .menu li a:hover {
 }
 .socialmedia li a {
   color: green;
+}
+.fa-instagram {
+  color: pink;
+}
+.fa-facebook {
+  color: blue;
+}
+.fa-youtube {
+  color: red;
 }
