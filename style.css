@@ -12,6 +12,7 @@ a:hover {
   text-decoration: underline;
   color: orange;
 }
+
 header {
   background-color: #000; /* color black */
   padding: 3%;
@@ -32,4 +33,13 @@ header .menu li a {
 }
 header .menu li a:hover {
   color: yellow;
+}
+
+.product-cards {
+  display: flex;
+  justify-content: space-between;
+  flex-flow: wrap;
+}
+.product-cards .card {
+  width: 30%;
 }
