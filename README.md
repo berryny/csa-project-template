@@ -20,6 +20,10 @@ Project details
 
 blah blah
 
+## Git
+
+[Git](https://git-scm.com/) is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+
 ```
 …or create a new repository on the command line
 echo "# csa-project-template2" >> README.md
