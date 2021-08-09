@@ -43,17 +43,7 @@ git push -u origin main
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
 
 ```
-```
-…or create a new repository on the command line
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/berryny/project-name.git
-git push -u origin main
-…or push an existing repository from the command line
-git remote add origin https://github.com/berryny/project-name.git
-git branch -M main
-git push -u origin main
-```
+
 ## Contact me
 
-[LinkedIn](https://linkedin.com)
+[LinkedIn](https://www.linkedin.com/in/jdesire/)
