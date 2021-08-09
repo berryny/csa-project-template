@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+<!-- favicon     -->
+    <link
+      rel="icon"
+      href="https://cdn.glitch.com/af9c2444-e751-4f30-8174-61049513cb09%2Ffavicon-desktop-512.png?v=1627913937061"
+    />
+    <title>Home Page</title>
+
+    <!-- Meta tags for SEO and social sharing -->
+    <link rel="canonical" href="https://csa-project-template.glitch.me/" />
+    <meta name="description" content="A HTML/CSS website project template" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:title" content="Judi's CSA Project Template Website" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://csa-project-template.glitch.me/" />
+    <meta
+      property="og:description"
+      content="A simple website, built with basic HTML and CSS."
+    />
+    <meta
+      property="og:image"
+      content="https://cdn.glitch.com/af9c2444-e751-4f30-8174-61049513cb09%2Ffavicon-desktop-512.png?v=1627913937061"
+    />
+    <meta name="twitter:card" content="summary" />
+    <!-- 
+Normalize.css makes browsers render all elements more consistently and in line with modern standards. It precisely targets only the styles that need normalizing.
+https://necolas.github.io/normalize.css/
+https://cdnjs.com/libraries/normalize 
+-->
+    <link
+      rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css"
+      integrity="sha512-NhSC1YmyruXifcj/KFRWoC561YpHpc5Jtzgvbuzx5VozKpWvQ+4nXhPdFgmx8xqexRcpAglTj9sIBWINXa8x5w=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    
+    <!-- Import the webpage's stylesheet -->
+    <!-- External CSS - style.css     -->
+    <link rel="stylesheet" href="html/style.css" />
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul class="menu">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="project.html">Project</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
+      <ul class="socialmedia">
+        <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+        <li><a href="#"><i class="fab fa-facebook"></i></a></li>
+        <li><a href="#"><i class="fab fa-youtube"></i></a></li>
+        <li><a href="#"><i class="fab fa-github"></i></a></li>
+      </ul>
+    </header>
+    
+    <main>
+
+12  olympian gods	
+Home
+bibliography
+outline
+pictures
+internet links
+map of Greece
+contact
+The Twelve great gods of the Greeks were known as the Olympians. Together they presided over every aspect of human life.In general, the Olympians are the gods who live on Mount Olympus, all of them somehow related to the supreme god Zeus. More specifically, the Twelve Olympians are the major deities of the Greek pantheon  Zeus, Hera, Poseidon, Demeter, Athena, Hestia,Apollo, Artemis, Ares, Aphrodite, Hephaestus, and Hermes. Hestia was often replaced by Dionysus. Hades and Persephone were sometimes included as part of the twelve Olympians (primarily due to the influence of the Eleusinian Mysteries), although in general Hades was excluded, because he resided permanently in the underworld and never visited Mount Olympus. Other gods, like Heracles Aesculapius, could also be included.
+
+I believe the Greek gods were the wisest and powerful gods in Greek history and i intend to prove it. The concept of the "Twelve Gods" is older than any extant Greek or Roman sources, and is likely of Anatolian origin.The gods meet in council in the Homeric epics, but the first ancient reference to religious ceremonies for the Olympians collectively is found in the Homeric Hymn to Hermes. The Greek cult of the Twelve Olympians can be traced to 6th-century BC Athens and probably has no precedent in the Mycenaean period. The altar to the Twelve Olympians at Athens is usually dated to the archonship of the younger Pesistratos, in 522/521 BC.
+
+There was some variation as to which deities were included, but the canonical twelve as commonly portrayed in art and poetry were Zeus, Hera, Poseidon, Demeter, Athena, Hestia, Apollo, Artemis, Ares, Aphrodite, Hephaestus and Hermes.
+
+Hades, known in the Eleusinian tradition as Pluto, was not usually included among the Olympians because his realm was the underworld. Plato connected the Twelve Olympians with the twelve months, and implies that he considered Pluto one of the twelve in proposing that the final month be devoted to him and the spirits of the dead. In Phaedrus Plato aligns the Twelve with the Zodiac and would exclude Hestia from their rank. But Eudoxes of Cnidus , was the first to relate gods and sings   
+. 
+
+
+
+POWERED BY 
+Get Started      
+    </main>
+    
+    <footer>&copy; 2021 Project Name
+          <ul class="socialmedia">
+        <li><a href="#">IG</a></li>
+        <li><a href="#">FB</a></li>
+        <li><a href="#">YT</a></li>
+      </ul>
+    </footer>
+  </body>
+</html>
