@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!--Having controll on the web-->
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="icon" href="https://picsum.photos/id/261/2200/1650" />
+
+    <title>Mariama's Project</title>
+
+    <!-- Meta tags for SEO and social sharing -->
+    <meta name="description" content="My Project Site" />
+    <meta name="robots" content="index, follow" />
+    <meta property="og:title" content="Mariama's CSA Project Website" />
+    <meta property="og:type" content="article" />
+    <meta
+      property="og:description"
+      content="A simple site built with basic HTML and CSS."
+    />
+    <meta property="og:image" content="https://picsum.photos/200/300/?blur=3" />
+    <meta name="twitter:card" content="summary" />
+    <!-- 
+Normalize.css makes browsers render all elements more consistently and in line with modern standards. It precisely targets only the styles that need normalizing.
+https://necolas.github.io/normalize.css/
+https://cdnjs.com/libraries/normalize 
+-->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css"
+      integrity="sha512-NhSC1YmyruXifcj/KFRWoC561YpHpc5Jtzgvbuzx5VozKpWvQ+4nXhPdFgmx8xqexRcpAglTj9sIBWINXa8x5w=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <!-- Import the webpage's stylesheet -->
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <header>
+      <nav class="nav">
+        <ul class="menu">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="project.html">Project</a></li>
+          <li><a href="contactus.html">Contact Us</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <div class="about-section hero">
+        <h1>
+          About Us Page
+        </h1>
+        <p>
+          <b>Who are we?</b> <br />
+          We are an organization that helps young people achieve their dreams of
+          being Airline Pilotes or work in the Air industry.<br />
+          <b>What do we do?</b> <br />
+          "Believe in yorself and you will be unstoppable."
+        </p>
+      </div>
+
+      <h2 style="text-align:center">Our Team</h2>
+      <div class="row">
+        <div class="column">
+          <div class="card">
+            <img
+              src="https://picsum.photos/id/1027/2848/4272"
+              alt="Jessica"
+              style="width:100%"
+            />
+            <div class="container">
+              <h2>Jessica L</h2>
+              <p class="title">CEO and Founder</p>
+              <p>Some text that describes me.</p>
+              <p>jessicaL@example.com</p>
+              <p><button class="button">Contact</button></p>
+            </div>
+          </div>
+        </div>
+
+        <div class="column">
+          <div class="card">
+            <img
+              src="https://picsum.photos/id/1012/3973/2639"
+              alt="Michael"
+              style="width:100%"
+            />
+            <div class="container">
+              <h2>Michael D</h2>
+              <p class="title">Art Director</p>
+              <p>Some text that describes me.</p>
+              <p>michaelD@example.com</p>
+              <p><button class="button">Contact</button></p>
+            </div>
+          </div>
+        </div>
+
+        <div class="column">
+          <div class="card">
+            <img
+              src="https://picsum.photos/id/1025/4951/3301"
+              alt="Jared"
+              style="width:100%"
+            />
+            <div class="container">
+              <h2>Jared C</h2>
+              <p class="title">Designer</p>
+              <p>Some text that describes me.</p>
+              <p>jaredC@example.com</p>
+              <p><button class="button">Contact</button></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+    <footer>
+      <p>
+        &copy; Copyright 2021
+      </p>
+    </footer>
+  </body>
+</html>
