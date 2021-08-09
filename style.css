@@ -16,3 +16,28 @@ h2 {
   color: green;
 }
 
+
+
+.hero {
+  color: #fff /* white */;
+  font-size: 2em;
+  font-family: 'Gowun Batang', serif;
+  font-weight: 800;
+  text-align: center;
+  /* top/bottom 5% right/left 0   */
+  padding: 5% 0;
+  height: 80vh;
+  background-image: url(https://images.pexels.com/photos/3597326/pexels-photo-3597326.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: up center;
+
+/*  Add flexbox to align content center  */
+  
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.hero h1 {
+    font-size: 3em;
+}
