@@ -43,7 +43,7 @@ https://cdnjs.com/libraries/normalize
     <link rel="stylesheet" href="html/style.css" />
   </head>
   <body>
-      <header>
+    <header>
       <nav>
         <ul class="menu">
           <li><a href="#">Home</a></li>
@@ -57,7 +57,7 @@ https://cdnjs.com/libraries/normalize
       <h1>
         Contact Page
       </h1>
-      
+
       <div class="flexbox-parent">
         <div class="flexbox-child">
           <h2>
@@ -68,11 +68,24 @@ https://cdnjs.com/libraries/normalize
             <li><a href="mailto:someone@domain.com">someone@domain.com</a></li>
           </ul>
           <address>
-            123 St Place, #3</br>
-          City, State Zip
+            123 St Place, #3<br />
+            City, State Zip
           </address>
         </div>
         <div class="flexbox-child">
+          <form>
+            <label for="fname">First Name</label>
+            <input type="text" id="fname" name="fname" />
+            <br />
+            <label for="lname">Last Name</label>
+            <input type="text" id="lname" name="lname" />
+            <br/>
+            <label for="email">Email</label>
+<!--             <input type="text" id="email" name="email" /> -->
+            <input type="email" id="email" name="email" />
+            
+          </form>
+        </div>
       </div>
     </main>
 
