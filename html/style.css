@@ -41,7 +41,7 @@ header .menu li a:hover {
 header {
   display: flex;
   justify-content: space-between;
-  flex-flow: wrap;  
+  flex-flow: wrap;
 }
 
 .product-cards {
@@ -78,4 +78,11 @@ header {
 }
 .fa-github {
   color: white;
+}
+
+/* Grid Layout */
+.grid-parent {
+  display: grid;
+  grid-template-columns: 100px 100px;
+  grid-gap: 10px;
 }
