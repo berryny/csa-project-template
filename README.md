@@ -46,7 +46,7 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 
 ## What's next?
 
-Research the below platforms on 
+Research the below platforms on what's the next steps in tech
 
 - https://www.codecademy.com/
 - https://www.kaggle.com/
@@ -54,7 +54,6 @@ Research the below platforms on
 - https://www.meetup.com/
 - https://codebar.io/
 - https://www.theknowledgehouse.org/
-
 
 ## Contact me
 
