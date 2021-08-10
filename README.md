@@ -44,6 +44,18 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 
 ```
 
+## What's next?
+
+Research the below platforms on 
+
+- https://www.codecademy.com/
+- https://www.kaggle.com/
+- https://www.freecodecamp.org/news/search/?query=ux
+- https://www.meetup.com/
+- https://codebar.io/
+- https://www.theknowledgehouse.org/
+
+
 ## Contact me
 
 [LinkedIn](https://www.linkedin.com/in/jdesire/)
